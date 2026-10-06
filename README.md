@@ -1,4 +1,4 @@
-# HackTheBox - Oopsie
+# HackTheBox - Oopsie Writeup
 
 ## Краткая сводка (Summary)
 * **Целевая ОС:** Linux (Ubuntu)
